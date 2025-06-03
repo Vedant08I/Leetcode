@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Vedant08I/Leetcode/tree/master/0945-snakes-and-ladders) |
+## Depth-First Search
+|  |
+| ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Vedant08I/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Graph
+|  |
+| ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Vedant08I/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
