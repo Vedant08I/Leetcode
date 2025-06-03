@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Vedant08I/Leetcode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/Vedant08I/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vedant08I/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Greedy
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Vedant08I/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vedant08I/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Matrix
 |  |
 | ------- |
@@ -37,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vedant08I/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Vedant08I/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
