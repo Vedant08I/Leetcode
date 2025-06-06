@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vedant08I/Leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Vedant08I/Leetcode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/Vedant08I/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vedant08I/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vedant08I/Leetcode/tree/master/0075-sort-colors) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vedant08I/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/Vedant08I/Leetcode/tree/master/3639-zero-array-transformation-i) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vedant08I/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
