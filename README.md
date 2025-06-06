@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Vedant08I/Leetcode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/Vedant08I/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vedant08I/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [3639-zero-array-transformation-i](https://github.com/Vedant08I/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Greedy
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vedant08I/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/Vedant08I/Leetcode/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
