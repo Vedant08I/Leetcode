@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vedant08I/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vedant08I/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vedant08I/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Vedant08I/Leetcode/tree/master/0135-candy) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vedant08I/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Vedant08I/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
