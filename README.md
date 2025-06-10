@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Vedant08I/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Vedant08I/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Vedant08I/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0837-most-common-word](https://github.com/Vedant08I/Leetcode/tree/master/0837-most-common-word) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vedant08I/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vedant08I/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -172,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vedant08I/Leetcode/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Vedant08I/Leetcode/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Vedant08I/Leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Vedant08I/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
