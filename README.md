@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Vedant08I/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Vedant08I/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/Vedant08I/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0958-sort-array-by-parity-ii](https://github.com/Vedant08I/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vedant08I/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vedant08I/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1656-count-good-triplets](https://github.com/Vedant08I/Leetcode/tree/master/1656-count-good-triplets) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vedant08I/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Vedant08I/Leetcode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/Vedant08I/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Vedant08I/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vedant08I/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Vedant08I/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Vedant08I/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Vedant08I/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Vedant08I/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vedant08I/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
