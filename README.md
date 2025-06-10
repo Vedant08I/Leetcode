@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vedant08I/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vedant08I/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/Vedant08I/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Vedant08I/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Vedant08I/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Vedant08I/Leetcode/tree/master/0401-binary-watch) |
 ## Tree
 |  |
 | ------- |
