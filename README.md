@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vedant08I/Leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant08I/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Vedant08I/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Vedant08I/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Vedant08I/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Vedant08I/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Vedant08I/Leetcode/tree/master/0383-ransom-note) |
+| [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0837-most-common-word](https://github.com/Vedant08I/Leetcode/tree/master/0837-most-common-word) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vedant08I/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vedant08I/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant08I/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant08I/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Vedant08I/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
