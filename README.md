@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0837-most-common-word](https://github.com/Vedant08I/Leetcode/tree/master/0837-most-common-word) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vedant08I/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1873-longest-nice-substring](https://github.com/Vedant08I/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vedant08I/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedant08I/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vedant08I/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Vedant08I/Leetcode/tree/master/0837-most-common-word) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/Vedant08I/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1873-longest-nice-substring](https://github.com/Vedant08I/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vedant08I/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vedant08I/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vedant08I/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Vedant08I/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/Vedant08I/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Vedant08I/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Vedant08I/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Vedant08I/Leetcode/tree/master/0645-set-mismatch) |
+| [1873-longest-nice-substring](https://github.com/Vedant08I/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Vedant08I/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant08I/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1873-longest-nice-substring](https://github.com/Vedant08I/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Quickselect
 |  |
 | ------- |
