@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vedant08I/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/Vedant08I/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Vedant08I/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
 | ------- |
