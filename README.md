@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vedant08I/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Vedant08I/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Vedant08I/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Vedant08I/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0837-most-common-word](https://github.com/Vedant08I/Leetcode/tree/master/0837-most-common-word) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Vedant08I/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Vedant08I/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
