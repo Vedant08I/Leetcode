@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vedant08I/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Vedant08I/Leetcode/tree/master/0561-array-partition) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vedant08I/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vedant08I/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vedant08I/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vedant08I/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vedant08I/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vedant08I/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vedant08I/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Vedant08I/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
