@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Vedant08I/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Vedant08I/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vedant08I/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vedant08I/Leetcode/tree/master/0118-pascals-triangle) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Vedant08I/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Vedant08I/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Vedant08I/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant08I/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Vedant08I/Leetcode/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/Vedant08I/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Vedant08I/Leetcode/tree/master/0401-binary-watch) |
 ## Tree
