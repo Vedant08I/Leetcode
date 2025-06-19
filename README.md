@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Vedant08I/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/Vedant08I/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Vedant08I/Leetcode/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vedant08I/Leetcode/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/Vedant08I/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Vedant08I/Leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Vedant08I/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vedant08I/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Vedant08I/Leetcode/tree/master/1755-defuse-the-bomb) |
