@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Vedant08I/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vedant08I/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/Vedant08I/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2262-solving-questions-with-brainpower](https://github.com/Vedant08I/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vedant08I/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vedant08I/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Vedant08I/Leetcode/tree/master/0118-pascals-triangle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2262-solving-questions-with-brainpower](https://github.com/Vedant08I/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vedant08I/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vedant08I/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Binary Search
