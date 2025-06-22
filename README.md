@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Vedant08I/Leetcode/tree/master/0837-most-common-word) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vedant08I/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1873-longest-nice-substring](https://github.com/Vedant08I/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vedant08I/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vedant08I/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vedant08I/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vedant08I/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/Vedant08I/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1873-longest-nice-substring](https://github.com/Vedant08I/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vedant08I/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vedant08I/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vedant08I/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Vedant08I/Leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Vedant08I/Leetcode/tree/master/0837-most-common-word) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vedant08I/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vedant08I/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vedant08I/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vedant08I/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
