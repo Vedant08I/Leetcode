@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vedant08I/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Vedant08I/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vedant08I/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vedant08I/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vedant08I/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vedant08I/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/Vedant08I/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vedant08I/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Vedant08I/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vedant08I/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vedant08I/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedant08I/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vedant08I/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vedant08I/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -329,4 +331,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vedant08I/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vedant08I/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
