@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Vedant08I/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/Vedant08I/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vedant08I/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vedant08I/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vedant08I/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2690-house-robber-iv](https://github.com/Vedant08I/Leetcode/tree/master/2690-house-robber-iv) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vedant08I/Leetcode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/Vedant08I/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Vedant08I/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vedant08I/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vedant08I/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
@@ -333,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vedant08I/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vedant08I/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vedant08I/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
