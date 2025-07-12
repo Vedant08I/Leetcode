@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Vedant08I/Leetcode/tree/master/0118-pascals-triangle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vedant08I/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vedant08I/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vedant08I/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2690-house-robber-iv](https://github.com/Vedant08I/Leetcode/tree/master/2690-house-robber-iv) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vedant08I/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vedant08I/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Recursion
 |  |
