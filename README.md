@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Vedant08I/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vedant08I/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vedant08I/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vedant08I/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vedant08I/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vedant08I/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant08I/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vedant08I/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vedant08I/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vedant08I/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedant08I/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vedant08I/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vedant08I/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vedant08I/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vedant08I/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vedant08I/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2690-house-robber-iv](https://github.com/Vedant08I/Leetcode/tree/master/2690-house-robber-iv) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vedant08I/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
