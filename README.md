@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vedant08I/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/Vedant08I/Leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Vedant08I/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Vedant08I/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Vedant08I/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vedant08I/Leetcode/tree/master/0075-sort-colors) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vedant08I/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Vedant08I/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vedant08I/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vedant08I/Leetcode/tree/master/0148-sort-list) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vedant08I/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vedant08I/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedant08I/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Prefix Sum
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vedant08I/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Vedant08I/Leetcode/tree/master/0118-pascals-triangle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vedant08I/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -428,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vedant08I/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vedant08I/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
