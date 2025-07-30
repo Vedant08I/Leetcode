@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vedant08I/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vedant08I/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vedant08I/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vedant08I/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2690-house-robber-iv](https://github.com/Vedant08I/Leetcode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vedant08I/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Vedant08I/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vedant08I/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vedant08I/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vedant08I/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vedant08I/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vedant08I/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vedant08I/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vedant08I/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vedant08I/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
