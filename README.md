@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Vedant08I/Leetcode/tree/master/0127-word-ladder) |
 | [0945-snakes-and-ladders](https://github.com/Vedant08I/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Vedant08I/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Matrix
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Vedant08I/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Vedant08I/Leetcode/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Vedant08I/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Vedant08I/Leetcode/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vedant08I/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Vedant08I/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Vedant08I/Leetcode/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Vedant08I/Leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
