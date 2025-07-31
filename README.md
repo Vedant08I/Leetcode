@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Vedant08I/Leetcode/tree/master/0837-most-common-word) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/Vedant08I/Leetcode/tree/master/0924-fair-candy-swap) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/Vedant08I/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/Vedant08I/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0958-sort-array-by-parity-ii](https://github.com/Vedant08I/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vedant08I/Leetcode/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Vedant08I/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vedant08I/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vedant08I/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vedant08I/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Vedant08I/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Vedant08I/Leetcode/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1873-longest-nice-substring](https://github.com/Vedant08I/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vedant08I/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vedant08I/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
