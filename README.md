@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Vedant08I/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Vedant08I/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Vedant08I/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vedant08I/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vedant08I/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Vedant08I/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vedant08I/Leetcode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Vedant08I/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Vedant08I/Leetcode/tree/master/0645-set-mismatch) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vedant08I/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Vedant08I/Leetcode/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Vedant08I/Leetcode/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vedant08I/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Vedant08I/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
