@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-soup-servings](https://github.com/Vedant08I/Leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Vedant08I/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vedant08I/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Vedant08I/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vedant08I/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Vedant08I/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Vedant08I/Leetcode/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vedant08I/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vedant08I/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Vedant08I/Leetcode/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/Vedant08I/Leetcode/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/Vedant08I/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/Vedant08I/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Vedant08I/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Vedant08I/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Vedant08I/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0900-reordered-power-of-2](https://github.com/Vedant08I/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/Vedant08I/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Vedant08I/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Vedant08I/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Vedant08I/Leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Vedant08I/Leetcode/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/Vedant08I/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vedant08I/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vedant08I/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vedant08I/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
