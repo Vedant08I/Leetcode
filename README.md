@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vedant08I/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vedant08I/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2690-house-robber-iv](https://github.com/Vedant08I/Leetcode/tree/master/2690-house-robber-iv) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Vedant08I/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vedant08I/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Vedant08I/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vedant08I/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
