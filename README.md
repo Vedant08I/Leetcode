@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vedant08I/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Vedant08I/Leetcode/tree/master/0561-array-partition) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vedant08I/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/Vedant08I/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vedant08I/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vedant08I/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vedant08I/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-soup-servings](https://github.com/Vedant08I/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Vedant08I/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/Vedant08I/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vedant08I/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Vedant08I/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vedant08I/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
