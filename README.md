@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vedant08I/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant08I/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-soup-servings](https://github.com/Vedant08I/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Vedant08I/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Vedant08I/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Vedant08I/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vedant08I/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vedant08I/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vedant08I/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/Vedant08I/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Vedant08I/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/Vedant08I/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Vedant08I/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vedant08I/Leetcode/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Vedant08I/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0826-soup-servings](https://github.com/Vedant08I/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Vedant08I/Leetcode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vedant08I/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vedant08I/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vedant08I/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -508,4 +511,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Vedant08I/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Vedant08I/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
