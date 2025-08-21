@@ -517,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/Vedant08I/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Vedant08I/Leetcode/tree/master/0867-new-21-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vedant08I/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
