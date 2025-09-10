@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Vedant08I/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Vedant08I/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Vedant08I/Leetcode/tree/master/0595-big-countries) |
+| [0627-swap-salary](https://github.com/Vedant08I/Leetcode/tree/master/0627-swap-salary) |
 ## Geometry
 |  |
 | ------- |
